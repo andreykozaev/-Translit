@@ -13,7 +13,7 @@ namespace ir
     {
         public Form1()
         {
-            InitializeComponent();//////
+            InitializeComponent();//
         }
         public static bool CyrToLat = true;
 
